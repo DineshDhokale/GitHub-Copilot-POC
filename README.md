@@ -36,25 +36,3 @@ Conclusions:
 8.	As per all above points, GitHub copilot can help us to create & maintain robust automation framework.
 9.	It does not have the capability to dynamically check DOM element updates or update framework locators accordingly. It primarily helps with writing code snippets and suggesting completions based on the context provided.
 
-Screenshot :  
-
-
-Other Screenshots:
-
-It helped with creation of registration test for below URL: https://parabank.parasoft.com/parabank/register.htm
-I just put this above URL and asked copilot to write test script for registration and it provided with locator id but as few locator don’t have id attributes so its not able to find locator as per dom structure as mentioned in 9th Point.
- 
-
-So here I tried to fixed this error with copilot & it suggested missing dependencies here and after added it fine now as per below image.
-
-
- 
-
- 
-
-Its creating POM pages as per elements mentioned, 
- 
- 
-
-Final Run:  
-
